@@ -1,0 +1,3 @@
+[functions.create-client-access]
+verify_jwt = true
+entrypoint = "./functions/create-client-access/index.ts"
